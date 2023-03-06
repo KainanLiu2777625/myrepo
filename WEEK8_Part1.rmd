@@ -2,7 +2,7 @@
 title: "Week 8 Lab"
 author: "Kainan LIU"
 date: "2023-03-06"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
